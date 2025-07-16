@@ -2,7 +2,7 @@
 # HI , I AM VASANT JEVENGEKAR
 
 # 💫 About Me:
-I'm student working at Vishwa Vihwani institute of system and management <br>Innovative front-end or full-stack projects that involve generative AI or enhance student productivity.<br>Optimizing AI chatbot integration and Supabase real-time features in web applications.<br>Advanced HTML, CSS, JavaScript, and how to build responsive UIs with AI integration.<br>Creating smart educational tools, front-end development, or building apps using Supabase and OpenAI.<br>I once built a full AI-powered study assistant platform in just one day for a hackathon!<br><br><br>
+I'm student working at Vishwa Vishwani institute of system and management <br>Innovative front-end projects  or enhance student productivity.<br>.<br>Advanced HTML, CSS, JavaScript, and how to build responsive UIs with AI integration.<br>Creating smart educational tools, front-end development .<br>I once built a full AI-powered study assistant platform in just one day for a hackathon!<br><br><br>
 
 
 ## 🌐 Socials:
